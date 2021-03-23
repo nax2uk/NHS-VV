@@ -34,7 +34,7 @@
     "postinstall": "test -n \"$NONPMPOSTINSTALL\" || npm run build"
   },
   "dependencies": {
-    "@sentry/browser": "^5.15.5",
+    "@sentry/browser": "^5.30.0",
     "@sentry/node": "^5.15.5",
     "@sentry/webpack-plugin": "^1.11.1",
     "@testing-library/jest-dom": "^5.11.4",
